@@ -1,0 +1,10 @@
+citizen/system_resources/
+*.dll
+FXServer.exe
+citizen/*
+components.json
+icudtl.dat
+imgui.ini
+server-tls.crt
+server-tls.key
+start.bat
