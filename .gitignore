@@ -8,3 +8,4 @@ imgui.ini
 server-tls.crt
 server-tls.key
 start.bat
+cache/*
