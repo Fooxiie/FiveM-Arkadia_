@@ -8,8 +8,8 @@ Config.MultiServerSync   = false   --This will check if a ban is add in the sql 
 
 --WEBHOOK
 Config.EnableDiscordLink = false --Turn this true if you want link the log to a discord (true-false)
-Config.webhookban        = "https://discordapp.com/api/webhooks/473571126690316298/oJZBU9YLz9ksOCG_orlf-wpMZ2pkFedfpEsC34DN_iHO0CBBp6X06W3mMJ2RvMMK7vIO"
-Config.webhookunban      = "https://discordapp.com/api/webhooks/473571126690316298/oJZBU9YLz9ksOCG_orlf-wpMZ2pkFedfpEsC34DN_iHO0CBBp6X06W3mMJ2RvMMK7vIO"
+Config.webhookban        = "https://discord.com/api/webhooks/746487717734514769/lYoHkndOU_aukXBoqbhWIw1_N5JkWM9gB-drvScQnMGovdRByk3l68sI-nf5YtUEChtg"
+Config.webhookunban      = "https://discord.com/api/webhooks/746487717734514769/lYoHkndOU_aukXBoqbhWIw1_N5JkWM9gB-drvScQnMGovdRByk3l68sI-nf5YtUEChtg"
 
 
 --LANGUAGE
